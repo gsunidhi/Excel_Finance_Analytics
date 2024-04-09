@@ -10,4 +10,6 @@ Power Pivot and DAX formulas are used to calculate result year wise and month wi
 
 1. Sales Report P & L by fiscal month
 
-![P&L by Fiscal month](Fiscal_month.png "P&L by Fiscal month")
+![P&L by Fiscal month](Fiscal_month_Part1.png "P&L by Fiscal month")
+
+![P&L by Fiscal month](Fiscal_month_Part2.png "P&L by Fiscal month")
